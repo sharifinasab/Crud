@@ -1,0 +1,20 @@
+{
+    "TodoList":[
+        {
+            "_id":"5fbcd1a12467682464a5be24",
+            "name":"list3",
+            "id":{
+                "value":"d60f24cd-7c4c-d72b-2a80-d6fece6f5335"
+                },
+            "items":[
+                {
+                    "checked":false,
+                    "description":"item2",
+                    "id":{
+                        "value":"489315f5-faec-2100-82e4-c826b84b66b2"
+                        }
+                 }
+                    ]
+        }
+    ]
+}
